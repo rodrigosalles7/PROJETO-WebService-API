@@ -2,9 +2,9 @@
 
 ### Baixar a pasta com o projeto
 
-Fazer o download da pasta zipada pelo link https://github.com/rodrigosalles7/Desafio-BackEnd/archive/refs/heads/main.zip ou se preferir utilizar o terminal executando:
+Fazer o download da pasta zipada pelo link https://github.com/rodrigosalles7/PROJETO-WebService-API/archive/refs/heads/main.zip ou se preferir utilizar o terminal executando:
 ```
-git clone ttps://github.com/rodrigosalles7/Desafio-BackEnd.git 
+git clone https://github.com/rodrigosalles7/PROJETO-WebService-API.git
 ```
 
 ### Instalação do Postman

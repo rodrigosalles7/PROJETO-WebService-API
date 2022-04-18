@@ -1,5 +1,7 @@
 ## PROJETO(WebService/API)
 
+Esse projeto consiste em testar cenários de **Criar um novo usuário, Listar todos os usuários cadastrados, Listar um usuário por ID e Excluir um usuário** operando em uma API pública. Foi utilizada a API https://serverest.dev/.
+
 ### Baixar a pasta com o projeto
 
 Fazer o download da pasta zipada pelo link https://github.com/rodrigosalles7/PROJETO-WebService-API/archive/refs/heads/main.zip ou se preferir utilizar o terminal executando:
